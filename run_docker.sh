@@ -4,7 +4,7 @@
 
 # Step 1:
 # Build image and add a descriptive tag
-docker build --tag=babawale/udacity-devops-nd-ml-api-project
+docker build --tag=babawale/udacity-devops-nd-ml-api-project .
 
 # Step 2: 
 # List docker images
