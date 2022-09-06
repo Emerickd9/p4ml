@@ -4,7 +4,7 @@
 
 # Step 1:
 # This is your Docker ID/path
-dockerpath=babawale/udacity-devops-nd-ml-api-project
+dockerpath=08138114703/udacity-devops-nd-ml-api-project
 
 # Step 2
 # Run the Docker Hub container with kubernetes
