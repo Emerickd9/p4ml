@@ -5,7 +5,7 @@
 
 # Step 1:
 # Create dockerpath
-dockerpath=babawale/udacity-devops-nd-ml-api-project
+dockerpath=08138114703/udacity-devops-nd-ml-api-project
 
 # Step 2:  
 # Authenticate & tag
